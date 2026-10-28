@@ -30,11 +30,9 @@ Each project may explore different layouts, interactions, design approaches, and
 ```text
 web-development-projects/
 ├── README.md
-├── projects/
-│   ├── project-one/
-│   └── project-two/
-├── assets/
-└── .gitignore
+├── Projects/
+└── ├── project-one/
+    └── project-two/
 ```
 
 The structure may evolve as projects are added.
@@ -57,4 +55,5 @@ Each substantial project should include its own README with:
 
 ## License
 
-No license has been specified yet. Unless a license is added, the repository should not be assumed to grant permission to reuse or redistribute its contents.
+This project is licensed under the MIT License.
+See the [LICENSE](LICENSE) file for details.
